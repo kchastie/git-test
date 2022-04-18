@@ -1,2 +1,2 @@
 # git-test
-testing of git
+git testing and commits
